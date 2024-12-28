@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  RiMo
+
+  Created by Javier Calartrava on 9/6/24.
+  
+*/
+
+"no_data_available" = "No data availablle";
+"characters_title" = "Ricky & Morty Character List";
+"alert_title" = "Atention";
+"alert_retry" = "Retry";
+"alert_continue" = "Continue";
+"form_name" = "Name";
+"form_status" = "Status";
+"form_species" = "Spices";
+"form_location" = "Location";
+"form_type" = "Type";
+"form_numberOfEpisodes" = "Number of episodes";
+"section_character" = "Character";
+"section_site" = "Site";
+"section_episodes" = "Episodes";
+"title_characterDetails" = "Detail";

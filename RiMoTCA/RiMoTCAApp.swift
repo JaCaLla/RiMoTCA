@@ -6,12 +6,19 @@
 //
 
 import SwiftUI
+import ComposableArchitecture
 
 @main
 struct RiMoTCAApp: App {
+    
+    static let store = Store(initialState: CharatersFeature.State()) {
+        CharatersFeature()
+            ._printChanges()
+    }
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CharacterView(store: RiMoTCAApp.store)
         }
     }
 }
