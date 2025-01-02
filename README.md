@@ -1,6 +1,6 @@
 
 # CombineAPIRrest
-This repository contains a sample iOS application. The app implements a simple iOS app that implements TCA (The Composable Architecture). This is the base code used in following post [Harnessing NFC Technology in your iOS App](https://javios.eu/blog)
+This repository contains a sample iOS application. The app implements a simple iOS app that implements TCA (The Composable Architecture). This is the base code used in following post [Dip your toes in middle of TCA ocean](https://javios.eu/blog)
 
 
 ## 🎥 Demo Video
